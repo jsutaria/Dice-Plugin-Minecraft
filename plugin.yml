@@ -1,0 +1,12 @@
+name: Dice
+main: me.lordusan.Dice
+version: 1.0
+commands:
+    dice:
+        description: Rolls the dice
+        usage: /<command>
+
+permissions:
+    dice.allow:
+        description: Dicing Perms
+        default: op
